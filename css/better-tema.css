@@ -5,3 +5,33 @@
     color: #ffff;
 }
 
+.social	a[href='http://facebook.com/betterimages']	{
+    background-image: url(../img/icone-face.png);
+    background-size: 36px 36px;
+}
+
+.social	a[href='http://twitter.com/betterimages']	{
+    background-image: url(../img/icone-twitter.png);
+    background-size: 36px 36px;
+}
+
+.social	a[href='http://instagram.com/betterimages']	{
+    background-image: url(../img/icone-insta.png);
+    background-size: 36px 36px;
+}
+
+.social a{
+    display: block;
+    width: 36px;
+    height: 36px;
+    text-indent: -9999px;
+}
+
+.social li{
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.meu-menu {
+    
+}
